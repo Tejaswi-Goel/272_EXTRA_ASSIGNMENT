@@ -1,4 +1,4 @@
-The link for the assignment USGS site provides the downloadable CSV files having data of Earthquakes happened in the past 5min or 1 day or 1 week or 1 month or years.
+The USGS site provides the downloadable CSV files having data of Earthquakes happened in the past 5min or 1 day or 1 week or 1 month or years.
 Tasks done in this project:
 
 Downloading the csv file from USGS website to give details on past 7    days Earthquake worldwide.
@@ -30,4 +30,4 @@ Future work:
 
 1)This statictical analysis on past earthquake events of several years can be used to develop algorithm to predict earthquakes.
 
-2)Mining the new model referred to as the third Uniform California Earthquake Rupture Forecast, or ìUCERF3î is the future for Earthquake prediction.
+2)Mining the new model referred to as the third Uniform California Earthquake Rupture Forecast, or ‚ÄúUCERF3‚Äù is the future for Earthquake prediction.
